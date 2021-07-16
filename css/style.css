@@ -67,6 +67,43 @@ section{
      padding-bottom: 85px;
      font-family: 'Open Sans', sans-serif;
  }
+ section{
+
+ }
+ .container_q{
+     max-width: 1095px;
+     margin: auto;
+ }
+ p{
+     color: #ffffff;
+     font-size: 32px;
+     padding-top: 71px;
+     font-family: 'Raleway', sans-serif;
+     font-weight: bold;
+
+ }
+ .container_h{
+     max-width: 1095px;
+     margin: auto;
+ }
+ p{
+     color: #ffffff;
+     font-size: 32px;
+     padding-top: 71px;
+     font-family: 'Raleway', sans-serif;
+     font-weight: bold;
+ }
+ .container_a{
+     max-width: 1095px;
+     margin: auto;
+ }
+ p{
+     color: #ffffff;
+     font-size: 32px;
+     padding-top: 71px;
+     font-family: 'Raleway', sans-serif;
+     font-weight: bold;
+ }
  footer{
     background-color: #2b2f35;
  }
